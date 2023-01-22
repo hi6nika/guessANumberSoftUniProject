@@ -1,3 +1,3 @@
 # GuessANumber
 
-A simple console game.
+a simple console game.
