@@ -1,1 +1,3 @@
-# softUniProjects from Fundamentals Module. 
+# GuessANumber
+
+A simple console game.
